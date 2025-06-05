@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @acarr4buk, or Andrew!
-- 🦾 My team is Client Support
+- Previously Data Support, now DQ Product Mgmt
+- I sometimes tinker with broad DQ functions, but mostly I'm here to approve my team's epics.
